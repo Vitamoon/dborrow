@@ -1,4 +1,6 @@
-# I will not update this but you are free to play around with it
+# Deprecated
+
+This interface allows you to track the availability of list of items tied to a spreadsheet and provides a way for users to register them as currently in use.
 
 
 
